@@ -6,6 +6,6 @@
 
 3. Component Reusability
 
-4. Component Props
+4. Component Props 
 
 
