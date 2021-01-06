@@ -1,0 +1,9 @@
+# Props Agenda
+
+1. Passing and accepting props {...props}
+
+2. What can you pass as props: 
+  - Passing numbers
+  - Passing arrays
+
+3. Default property values
